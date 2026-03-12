@@ -27,13 +27,12 @@ jobs:
       - name: Render Quarto site
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          path: my-site
-          
+          path: my-site/my-site  # 你的 Quarto 项目子目录
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site
+          path: my-site/my-site/_site  # 指向子目录里的 _site 文件夹
 
   deploy:
     environment:
