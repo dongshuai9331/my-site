@@ -27,7 +27,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: my-site/my-site/_site  # 直接指向你已有的 _site 文件夹
+          path: my-site/_site  # 这里改成正确路径
 
       - name: Deploy to GitHub Pages
         id: deployment
