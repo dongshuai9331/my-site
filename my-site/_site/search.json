@@ -2,9 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my-site",
+    "title": "个人主页",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "姓名：董帅\n学号：2025303120177\n\n欢迎访问我的个人网站！"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "个人主页",
+    "section": "",
+    "text": "姓名：董帅\n学号：2025303120177\n\n欢迎访问我的个人网站！"
   },
   {
     "objectID": "about.html",

@@ -1,5 +1,8 @@
 ---
-title: "About"
+title: "关于我"
+format: html
 ---
 
-About this site
+## 个人详情
+- 专业：农业工程与信息技术
+- 爱好：文学、摄影

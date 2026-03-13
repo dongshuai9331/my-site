@@ -1,7 +1,10 @@
 ---
-title: "my-site"
+title: "个人主页"
+format: html
 ---
 
-This is a Quarto website.
+## 基本信息
+- 姓名：董帅
+- 学号：2025303120177
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+欢迎访问我的个人网站！
